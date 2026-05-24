@@ -18,7 +18,7 @@ This Tableau dashboard analyzes employee attrition, job satisfaction, gender dis
 - Job Satisfaction Ratings
 
 ## Dashboard Preview
-(Add Screenshot Here)
+![Dashboard](HR Analytics Final.png)
 
 ## Skills Demonstrated
 - Dashboard Design
@@ -27,4 +27,4 @@ This Tableau dashboard analyzes employee attrition, job satisfaction, gender dis
 - Business Intelligence
 
 ## Author
-Your Name
+Chandani Devare
